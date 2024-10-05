@@ -60,7 +60,7 @@
                 {
                     "type": "downloadFile",
                     "file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.cia",
-                    "output": "sdmc:/Universal-Updater.cia"
+                    "output": "sdmc:/Universal-Update.cia"
                 },
                 {
                     "type": "installCia",
